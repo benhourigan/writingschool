@@ -1,0 +1,12 @@
+# Site settings
+title: Writing School
+email: ben@hourigan.co
+description: > # this means to ignore newlines until "baseurl:"
+  Writing School is a place to learn about writing. If you have a topic you'd like to see discussed, please write to <a href="mailto:ben@hourigan.co?subject=Writing School">ben@hourigan.co</a>.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://writingschool.org" # the base hostname & protocol for your site
+twitter_username: writingschoolWS
+# github_username:  benhourigan
+
+# Build settings
+markdown: kramdown
