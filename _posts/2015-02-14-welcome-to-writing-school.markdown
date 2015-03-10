@@ -5,7 +5,10 @@ date:   2015-02-14 12:43:47
 categories: update general
 author: Ben Hourigan
 comments: true
+published: true
 ---
+
+**Note: This isn't finished yet, but it's my only post. Come back later to see the whole thing.**
 
 Welcome to Writing School. You probably have a few questions.
 
