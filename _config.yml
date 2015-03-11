@@ -10,3 +10,19 @@ twitter_username: writingschoolWS
 
 # Build settings
 markdown: kramdown
+
+# Taken from https://github.com/barryclark/jekyll-now
+
+footer-links:
+  dribbble:
+  email:
+  facebook: https://www.facebook.com/writingschoolWS
+  flickr:
+  github: 
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name> 

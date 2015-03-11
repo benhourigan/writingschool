@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-**Note: This isn't finished yet, but it's my only post. Come back later to see the whole thing.**
+**Note: This isn't finished yet, but at this stage it's my only post. Come back later to see the whole thing.**
 
 ----
 
