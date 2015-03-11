@@ -62,7 +62,7 @@ Here's an example of the sort of message you could send:
 > It might be a while since you've heard from me (or maybe not!), so I hope you'll forgive me for sending you an email out the blue to share some important news.
 >
 > I recently published my first novel, [Kiss Me, Genius Boy](http://www.amazon.com/Kiss-Genius-More-Dreams-Book-ebook/dp/B005NH7AJO/). 
-
+>
 > Very briefly, the book is the first in a three-part series that tells the story of Joshua Rivers, a young man who meets the woman he once dreamed he was destined to marry, discovers she's married to an old friend, and resolves to take her away from him. It's also the story of Josh's beachside childhood, his nymphomaniac lover Lily, and an intellectual exploration of the perils of living for the vision of a perfect life or world to come.
 
 You could skip the next bit, which I can include only because I already have feedback, but it shows the importance of getting readers on-board with your project early.
@@ -79,10 +79,10 @@ But do make sure you include something like this.
 
 > I probably don't need to say that having put a book out for the first time is a huge deal for me, and if you have the chance to check it out, I really hope you'll enjoy it as much as these readers have. Here's where you can get it as an e-book:
 >
-> [Amazon](http://www.amazon.com/Kiss-Genius-More-Dreams-Book-ebook/dp/B005NH7AJO/): http://www.amazon.com/Kiss-Genius-More-Dreams-Book-ebook/dp/B005NH7AJO/
-> [iBooks](https://itunes.apple.com/au/book/kiss-me-genius-boy-no-more/id513255216?mt=11): https://itunes.apple.com/au/book/kiss-me-genius-boy-no-more/id513255216?mt=11
-> [Kobo](http://www.kobobooks.com/ebook/Kiss-Me-Genius-Boy-No/book-VKZJjSQkmkay9IVO3XmPRw/page1.html): http://www.kobobooks.com/ebook/Kiss-Me-Genius-Boy-No/book-VKZJjSQkmkay9IVO3XmPRw/page1.html 
-> [Smashwords](https://www.smashwords.com/books/view/87905): https://www.smashwords.com/books/view/87905
+> * [Amazon](http://www.amazon.com/Kiss-Genius-More-Dreams-Book-ebook/dp/B005NH7AJO/): http://www.amazon.com/Kiss-Genius-More-Dreams-Book-ebook/dp/B005NH7AJO/  
+> * [iBooks](https://itunes.apple.com/au/book/kiss-me-genius-boy-no-more/id513255216?mt=11): https://itunes.apple.com/au/book/kiss-me-genius-boy-no-more/id513255216?mt=11  
+> * [Kobo](http://www.kobobooks.com/ebook/Kiss-Me-Genius-Boy-No/book-VKZJjSQkmkay9IVO3XmPRw/page1.html): http://www.kobobooks.com/ebook/Kiss-Me-Genius-Boy-No/book-VKZJjSQkmkay9IVO3XmPRw/page1.html  
+> * [Smashwords](https://www.smashwords.com/books/view/87905): https://www.smashwords.com/books/view/87905
 >
 > One thing I should tell you about: there is some explicit sexual content in the book, so if that's not for you—well, just watch out. It may reassure you to know that it's all part of a conscious strategy that explores the contemporary popularity of shock art. Also, some readers have really enjoyed those scenes.
 >
