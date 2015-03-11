@@ -111,7 +111,7 @@ blockquote {
     color: $grey-color-dark;
     border-left: 4px solid $grey-color;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: $base-font-size;
     /*letter-spacing: -1px;*/
     font-style: italic;
 
