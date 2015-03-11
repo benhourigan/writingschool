@@ -6,6 +6,7 @@ categories: promotion
 author: Ben Hourigan
 comments: true
 published: true
+excerpt: Self-published don't sell without promotion. So, what should you do to get started?
 ---
 
 **Question: My self-published book has been out for a couple of months, and I just checked my sales dashboards in Amazon and Smashwords. So far it hasn’t sold a single copy. Is this a sign I should give up? The longer it’s on the store without selling, the more it's just going to get pushed to the back of the pile, right?**
