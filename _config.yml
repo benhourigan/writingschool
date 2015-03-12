@@ -11,7 +11,7 @@ twitter_username: writingschoolWS
 # Build settings
 markdown: kramdown
 
-# Taken from https://github.com/barryclark/jekyll-now
+# Taken from https://github.com/barryclark/jekyll-now. Doesn't appear to work
 
 footer-links:
   dribbble:
@@ -25,4 +25,9 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name> 
+  youtube: # channel/<your_long_string> or user/<user-name> .
+
+# Others
+
+disqus:
+  shortname: 'writingschool'
